@@ -1,0 +1,6 @@
+{
+  "name": "AuraMusic",
+  "description": "High-fidelity music streaming, offline downloads, daily personalized discovery, and real-time Party Mode for 10+ devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
